@@ -1,0 +1,23 @@
+{
+  "name": "joaodematejr",
+  "version": "1.0.0",
+  "description": "graphql aplicação",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaodematejr/aplicacao_graphql.git"
+  },
+  "author": "João Dematé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaodematejr/aplicacao_graphql/issues"
+  },
+  "homepage": "https://github.com/joaodematejr/aplicacao_graphql#readme",
+  "dependencies": {
+    "graphql": "^14.4.2",
+    "nodemon": "^1.19.1"
+  }
+}
